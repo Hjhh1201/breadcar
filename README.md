@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Junhan
 - 👀 I’m interested in full stack web development
-- 🌱 I’m a student who currently learns computer scinence in university of nottingham ningbo china.
+- 🌱 I’m a student who currently learns computer scinence in University of Nottingham Ningbo China.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (via email): acd18848@outlook.com
 
